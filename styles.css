@@ -1,6 +1,6 @@
 body { font-family: Arial, sans-serif; background-color: #f7f7f7; color: #555; margin: 0; padding: 20px; } h1, h2 { color: #008080; } section { background-color: #fff; padding: 20px; margin-bottom: 20px; border-radius: 5px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); }
 .imagen-ajustada {
-    width: 150px;  /* Ajusta el ancho según lo necesites */
+    width: 180px;  /* Ajusta el ancho según lo necesites */
     height: auto;  /* Mantiene la proporción */
     display: block;
     margin: 0px auto;  /* Centra las imágenes y agrega espacio */
